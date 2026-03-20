@@ -108,14 +108,14 @@ const books = ref([
   {
     id: 1,
     title: 'Гарри Поттер',
-    description: 'Фэнтези-роман о юном волшебнике и его приключениях.',
-    image: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=1200&auto=format&fit=crop'
+    description: 'Серия фэнтези-романов о юном волшебнике и его приключениях.',
+    image: 'https://unsplash.com/photos/stack-of-books-on-white-table-YuUz5uQkaXM'
   },
   {
     id: 2,
     title: '1984',
     description: 'Антиутопия Джорджа Оруэлла о тотальном контроле и свободе.',
-    image: 'https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://unsplash.com/photos/a-person-holding-up-a-book-in-front-of-a-book-shelf-kUYexCmEPuI'
   }
 ])
 
